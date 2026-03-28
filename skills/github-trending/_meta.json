@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "summary": "GitHub 趋势智能分析 | 支持趋势对比、周报月报生成、深度项目解析。Smart GitHub Trending Analysis with comparison, weekly/monthly reports, and deep project insights.",
+  "license": "MIT",
+  "tags": ["github", "trending", "analysis", "report", "ai"]
+}
